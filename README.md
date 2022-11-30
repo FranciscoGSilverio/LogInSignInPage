@@ -10,7 +10,5 @@ to this project, so it might not look exactly as in the original project.
 
 Also, I added a footer just to add some extra information to the page such as my name, the designer name and the link to its original work and also my contacts.
 
-If you'd like to take a look: here is the link to the deployed page: [franciscogsilverio.github.io/index.html](https://franciscogsilverio.github.io/index.html)
-
 And of course, if you liked what you saw or have any ideas of improvement, feel free to let met know :)
 
